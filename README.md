@@ -22,7 +22,7 @@ O projeto utiliza o dataset **GTZAN Music Genre Dataset**, que contém 1000 arqu
 - Rock
 
 > **Importante:**  
-Por questões de tamanho, a pasta `genres/` com o dataset **não está incluída neste repositório**. Você deve baixar o dataset separadamente.
+Por questões de tamanho, a pasta `genres/` com o dataset **não está incluída neste repositório**. O dataset deve ser baixado separadamente.
 
 ### Link para download do dataset:  
 [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
